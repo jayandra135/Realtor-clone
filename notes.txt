@@ -14,3 +14,9 @@ https://github.com/tailwindlabs/tailwindcss-forms
 
 react icons
 https://react-icons.github.io/react-icons
+
+firebase
+www.firebase.com
+
+react toastify
+https://www.npmjs.com/package/react-toastify
