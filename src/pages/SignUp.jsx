@@ -10,7 +10,7 @@ import {
 import { db } from "../firebase";
 import { serverTimestamp, setDoc, doc } from "firebase/firestore";
 import { useNavigate } from "react-router-dom";
-import { ToastContainer, toast } from "react-toastify";
+import { toast } from "react-toastify";
 
 const SignUp = () => {
   const navigate = useNavigate();
