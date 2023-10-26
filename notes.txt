@@ -1,0 +1,16 @@
+tailwind css form
+https://github.com/tailwindlabs/tailwindcss-forms
+ tailwind.config.js
+ module.exports = {
+     theme: {
+       // ...
+     },
+     plugins: [
+       require('@tailwindcss/forms'),
+      // ...
+    ],
+   }
+
+
+react icons
+https://react-icons.github.io/react-icons
