@@ -16,7 +16,7 @@ const Header = () => {
     });
   }, []);
   const pathRoute = (route) => {
-    console.log(route === location.pathname);
+    //console.log(route === location.pathname);
     if (route === location.pathname) {
       return true;
     }
